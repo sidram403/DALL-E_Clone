@@ -6,4 +6,9 @@
 ```pseudocode
 npm create vite@latest
 ```
+## 2. Here We install node modules
+```javascript
+npm install
+```
+
 
