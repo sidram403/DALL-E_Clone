@@ -11,4 +11,10 @@ npm create vite@latest
 npm install
 ```
 
+## 3. Here you can find assets for this project
+
+- ### [Assets](https://drive.google.com/file/d/12ZCrmvvqrI2KONvpm1fWpf2pKkGlgIpE/view) go and download
+
+
+
 
